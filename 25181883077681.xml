@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<root>
+
+    
+    <result status="0" msg="OK" sidDict="{&quot;PGTID&quot;:&quot;&quot;,&quot;GTID&quot;:&quot;143532484192113600071487784&quot;}">
+
+        <userinfo_area>
+    <apply_info title="申请职位" type="job">
+    </apply_info>
+	        <tel_info title="电话"  content="B9E9C811BD79FD5737F7CB5AF2032EE9" len="11">
+			      			        <action action="{&quot;isencrypt&quot;:&quot;false&quot;,&quot;cateid&quot;:&quot;3134&quot;,&quot;infoid&quot;:&quot;25181883077681&quot;,&quot;title&quot;:&quot;&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;&quot;,&quot;username&quot;:&quot;&#37329;&#36125;&#21202;&#25945;&#32946;&quot;,&quot;action&quot;:&quot;tel&quot;,&quot;len&quot;:&quot;11&quot;,&quot;phonenum&quot;:&quot;B9E9C811BD79FD5737F7CB5AF2032EE9&quot;,&quot;url&quot;:&quot;http://i.webapp.58.com/bj/zpjianshen/25181883077681x.shtml&quot;}"/>
+			              </tel_info>
+		        <bangbang_info title="语音" content="">
+            <action                         action="{&quot;uid&quot;:&quot;8774593906695&quot;,&quot;infoid&quot;:&quot;25181883077681&quot;,&quot;cateid&quot;:&quot;3134&quot;,&quot;nickname&quot;:&quot;&quot;,&quot;uname&quot;:&quot;&#37329;&#36125;&#21202;&#25945;&#32946;&quot;,&quot;posttime&quot;:&quot;1456733461474&quot;,&quot;url&quot;:&quot;http://i.webapp.58.com/bj/zpjianshen/25181883077681x.shtml?formatsource=detail_currentcate&amp;fromdc=zpjianshen&amp;fromdl=bj&amp;topcate=zpjianshen&quot;,&quot;rootcateid&quot;:&quot;574&quot;,&quot;online&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;&quot;,&quot;isbiz&quot;:1,&quot;tradeline&quot;:&quot;job&quot;,&quot;action&quot;:&quot;im&quot;,&quot;invitation&quot;:{&quot;subtitle&quot;:&quot;&quot;,&quot;priceunit&quot;:&quot;&#20803;&quot;,&quot;detailaction&quot;:{&quot;action&quot;:&quot;pagetrans&quot;,&quot;content&quot;:{&quot;recomInfo&quot;:&quot;false&quot;,&quot;userID&quot;:8774593906695,&quot;title&quot;:&quot;&#35814;&#24773;&quot;,&quot;use_cache&quot;:&quot;true&quot;,&quot;local_name&quot;:&quot;bj&quot;,&quot;action&quot;:&quot;pagetrans&quot;,&quot;infoID&quot;:&quot;25181883077681&quot;,&quot;pagetype&quot;:&quot;detail&quot;,&quot;list_name&quot;:&quot;zpjianshen&quot;,&quot;full_path&quot;:&quot;9224,38680&quot;,&quot;infoSource&quot;:&quot;6&quot;,&quot;countType&quot;:&quot;&quot;},&quot;tradeline&quot;:&quot;job&quot;},&quot;pricenum&quot;:&quot;3000-5000&quot;,&quot;telaction&quot;:{&quot;isencrypt&quot;:&quot;false&quot;,&quot;infoid&quot;:&quot;25181883077681&quot;,&quot;cateid&quot;:&quot;3134&quot;,&quot;username&quot;:&quot;&#37329;&#36125;&#21202;&#25945;&#32946;&quot;,&quot;title&quot;:&quot;&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;&quot;,&quot;action&quot;:&quot;tel&quot;,&quot;len&quot;:&quot;11&quot;,&quot;phonenum&quot;:&quot;B9E9C811BD79FD5737F7CB5AF2032EE9&quot;,&quot;url&quot;:&quot;http://i.webapp.58.com/bj/zpjianshen/25181883077681x.shtml&quot;}},&quot;catename&quot;:&quot;&#36816;&#21160;&#20581;&#36523;&quot;}"
+                    />
+        </bangbang_info>
+	</userinfo_area>        <title_area title="&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;"
+            text=""
+            user_type="1">
+    <ext>
+        <item name="今天"/>
+                    <item name="执照已认证"/>
+                <item name="已有600人浏览"/>
+    </ext>
+    <price p="3000-5000" u="元"/>
+</title_area>
+        <base_area>
+                                        <mapAddressItem title="地址" content="北京 - 通州 - 梨园">
+                    <action action="{&quot;title&quot;:&quot;&#21271;&#20140;&#36890;&#24030;&#26792;&#22253;&#36149;&#21451;&#22823;&#21414;&#21518;&#20391;&#23567;2&#27004;&quot;,&quot;lon&quot;:&quot;116.67346398295&quot;,&quot;customtitle&quot;:&quot;&#22320;&#22336;&quot;,&quot;lastname&quot;:&quot;&#21271;&#20140;&quot;,&quot;lat&quot;:&quot;39.890268159227&quot;}" />
+                </mapAddressItem>
+                        <baseItem>
+                <items>
+                                        <item>
+                        <col title="职位" content="舞蹈老师"/>
+                    </item>
+                    <item>
+                        <col title="要求" content="2人/1-2年/大专以上学历"/>
+                    </item>
+                </items>
+            </baseItem>
+        </base_area>
+
+        
+        
+        		
+    		
+    <qy_info company="4" id="8774593906695" name="&#21271;&#20140;&#19996;&#26041;&#33402;&#26421;&#25945;&#32946;&#21672;&#35810;&#26377;&#38480;&#20844;&#21496;" size="50-99人"  lable="会员"          nature="私营" trade="教育/科研/培训" address="北京市通州区梨园贵友大厦后侧"
+     logo=""     />
+
+    
+    <qy_agency>
+
+                        <mapAddressItem title="地址" content="北京市通州区梨园贵友大厦后侧">
+            <action action="{&quot;title&quot;:&quot;&#21271;&#20140;&#19996;&#26041;&#33402;&#26421;&#25945;&#32946;&#21672;&#35810;&#26377;&#38480;&#20844;&#21496;&quot;,&quot;lon&quot;:&quot;116.673464&quot;,&quot;customtitle&quot;:&quot;&#22320;&#22336;&quot;,&quot;lastname&quot;:&quot;&#21271;&#20140;&quot;,&quot;lat&quot;:&quot;39.890268&quot;}" />
+        </mapAddressItem>
+        
+        <qy_desc lable="简介" desc="&#19996;&#26041;&#33402;&#26421;&#25945;&#32946;&#26159;&#19968;&#25152;&#22269;&#38469;&#21270;&#25945;&#32946;&#22521;&#35757;&#26426;&#26500;&#65292;&#26159;&#24310;&#29992;&#20102;&#21271;&#20140;&#22823;&#23398;&#25945;&#32946;&#19987;&#23478;&#20204;&#65292;&#32463;&#36807;&#22810;&#24180;&#30740;&#31350;&#24635;&#32467;&#20808;&#36827;&#65292;&#23454;&#29992;&#30340;&#19968;&#25972;&#22871;&#25945;&#23398;&#29702;&#24565;&#12290;&#25317;&#26377;&#25104;&#20154;&#31995;&#21015;&#65292;&#38738;&#23569;&#24180;&#31995;&#21015;&#65292;&#24188;&#23567;&#34900;&#25509;&#31995;&#21015;&#19977;&#22823;&#31995;&#21015;&#26032;&#39062;&#19987;&#19994;&#30340;&#21697;&#29260;&#35838;&#31243;&#12290;&#12298;&#37329;&#36125;&#21202;&#24188;&#23567;&#34900;&#25509;&#29677;&#12299;&#26159;&#19996;&#26041;&#33402;&#26421;&#25945;&#32946;&#26071;&#19979;&#31934;&#33521;&#21697;&#29260;&#20043;&#19968;&#65292;&#26159;&#21271;&#20140;&#24066;&#23569;&#26377;&#30340;&#27491;&#35268;&#65292;&#19987;&#19994;&#65292;&#31995;&#32479;&#22521;&#35757;&#24188;&#21319;&#23567;&#23398;&#21069;&#25945;&#32946;&#26426;&#26500;&#12290;&#25105;&#20204;&#26159;&#19968;&#23478;&#20197;&#19987;&#19994;&#25552;&#20379;4-6&#23681;&#23398;&#21069;&#25945;&#32946;&#65292;&#20840;&#38754;&#23454;&#26045;&#24188;&#23567;&#34900;&#25509;&#23436;&#32654;&#36807;&#28193;&#30340;&#19987;&#19994;&#22521;&#35757;&#26426;&#26500;&lt;br&gt;2011&#24180;&#22312;&#36890;&#24030;&#21306;&#24314;&#26657;&#20197;&#26469;&#65292;&#22987;&#32456;&#22362;&#25345;&#8220;&#25105;&#26159;&#27597;&#20146;&#8221;&#30340;&#21150;&#23398;&#24605;&#24819;&#65292;&#25552;&#20513;&#8220;&#36866;&#24212;&#25945;&#32946;&#8221;&#30340;&#21150;&#23398;&#29702;&#24565;&#65292;&#29420;&#21019;&#8220;&#37329;&#36125;&#21202;&#24555;&#20048;&#35782;&#23383;&#8221;&#8220;&#37329;&#36125;&#21202;&#20859;&#25104;&#22269;&#23398;&#22530;&#8221;&#8220;&#37329;&#36125;&#21202;&#24605;&#32500;&#25968;&#23398;&#8221;&#8220;&#37329;&#36125;&#21202;&#24188;&#20799;&#33521;&#35821;&#8221;&#31561;&#37329;&#36125;&#21202;&#21313;&#22823;&#29305;&#33394;&#30340;&#37329;&#29260;&#23398;&#21069;&#29677;&#65292;&#24182;&#20005;&#26684;&#25191;&#34892;&#23567;&#29677;&#25480;&#35838;&#65292;&#20197;&#23567;&#23398;&#24335;&#25945;&#24072;&#26550;&#26500;&#20307;&#31995;&#65292;&#24188;&#20799;&#22253;&#24335;&#39278;&#39135;&#29983;&#27963;&#31649;&#29702;&#65292;&#23436;&#20840;&#23454;&#29616;&#24188;&#23567;&#34900;&#25509;&#30340;&#29615;&#22659;&#36866;&#24212;&#65292;&#26102;&#38388;&#31649;&#29702;&#12289;&#20064;&#24815;&#20859;&#25104;&#12289;&#37325;&#28857;&#22521;&#20859;&#23398;&#20064;&#20852;&#36259;&#65292;&#25552;&#39640;&#36866;&#24212;&#24615;&#23398;&#20064;&#33021;&#21147;&#65292;&#31561;&#22810;&#26041;&#38754;&#22810;&#26041;&#20301;&#25945;&#32946;&#12290;"/>
+
+            </qy_agency>
+
+        <desc_area title="职位描述" text="&#23703;&#20301;&#32844;&#36131;&#65306;&#32452;&#32455;&#23433;&#25490;&#24188;&#20799;&#26085;&#24120;&#27963;&#21160;&#65292;&#25945;&#21463;&#24188;&#20799;&#20116;&#22823;&#39046;&#22495;&#35838;&#31243;&lt;br&gt;&#20219;&#32844;&#36164;&#26684;&#65306;&#28909;&#29233;&#26412;&#32844;&#24037;&#20316;&#65292;&#23545;&#24188;&#20799;&#32454;&#24515;&#12289;&#32784;&#24515;&#65292;&#33021;&#22815;&#19982;&#23478;&#38271;&#36827;&#34892;&#27807;&#36890;&#12290;&lt;br&gt;&#24037;&#20316;&#26102;&#38388;&#65306;&#21608;&#19968;&#33267;&#21608;&#20116;&#26089;7:30&#33267;&#26202;17:30&lt;br&gt;     &#33410;&#20551;&#26085;&#27491;&#24120;&#20241;&#24687;"/>
+
+        <report_area title="如遇无效、虚假、诈骗信息，请立即举报" text="求职过程请勿缴纳费用，谨防诈骗！若信息不实请举报。">
+    <action action="pagetrans" tradeline="job" content="{&quot;title&quot;:&quot;&#20030;&#25253;&quot;,&quot;showsift&quot;:&quot;false&quot;,&quot;top_right&quot;:&quot;hide&quot;,&quot;isfinish&quot;:&quot;false&quot;,&quot;backtoroot&quot;:&quot;false&quot;,&quot;action&quot;:&quot;loadpage&quot;,&quot;pagetype&quot;:&quot;link&quot;,&quot;is_recent&quot;:&quot;false&quot;,&quot;showpub&quot;:&quot;false&quot;,&quot;showarea&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http://about.58.com/vote/app?infoId=25181883077681&quot;}"/>
+</report_area>
+<job_list title="附近职位" type="1">
+    <infoList>
+                    <item infoID="26286356681408" title="学前班拼音老师" label="3000-5000元" infoSource="" countType=""
+                  userID="22704960062727">
+                <action action="pagetrans" tradeline="job" content="{&quot;recomInfo&quot;:&quot;false&quot;,&quot;userID&quot;:22704960062727,&quot;title&quot;:&quot;&#35814;&#24773;&quot;,&quot;use_cache&quot;:&quot;true&quot;,&quot;local_name&quot;:&quot;bj&quot;,&quot;pagetype&quot;:&quot;detail&quot;,&quot;infoID&quot;:&quot;26286356681408&quot;,&quot;list_name&quot;:&quot;zpjianshen&quot;,&quot;full_path&quot;:&quot;9224,38680,38734&quot;,&quot;infoSource&quot;:&quot;0&quot;,&quot;countType&quot;:&quot;0&quot;}"/>
+            </item>
+                    <item infoID="26306626181709" title="幼儿园老师" label="面议" infoSource="" countType=""
+                  userID="10239370539782">
+                <action action="pagetrans" tradeline="job" content="{&quot;recomInfo&quot;:&quot;false&quot;,&quot;userID&quot;:10239370539782,&quot;title&quot;:&quot;&#35814;&#24773;&quot;,&quot;use_cache&quot;:&quot;true&quot;,&quot;local_name&quot;:&quot;bj&quot;,&quot;pagetype&quot;:&quot;detail&quot;,&quot;infoID&quot;:&quot;26306626181709&quot;,&quot;list_name&quot;:&quot;zpjianshen&quot;,&quot;full_path&quot;:&quot;9224,38680,38734&quot;,&quot;infoSource&quot;:&quot;0&quot;,&quot;countType&quot;:&quot;0&quot;}"/>
+            </item>
+            </infoList>
+</job_list>
+<tool_area title="靠谱好工作月薪8000+" content="线上沟通，即刻入职">
+    <info_button title="立即查看">
+		<action action="pagetrans" tradeline="job" content="{&quot;title&quot;:&quot;58&#37197;&#37197;&quot;,&quot;showsift&quot;:&quot;false&quot;,&quot;isfinish&quot;:false,&quot;backtoroot&quot;:false,&quot;action&quot;:&quot;loadpage&quot;,&quot;pagetype&quot;:&quot;link&quot;,&quot;showpub&quot;:false,&quot;showarea&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http://pei.58.com/m/mgongzuo1.html?from=zhiweixiangqingye_peipei_108&amp;app=58app&quot;}"/>
+	</info_button>
+</tool_area>
+<advert_area title="智能推广" type="3">
+    <infolist>
+                    <infoItem title="&lt;font color=&apos;#ff6a22&apos;&gt;[&#25512;&#24191;]&lt;/font&gt;5-8k&#23156;&#24188;&#20799;&#25299;&#23637;&#28216;&#27891;&#25945;&#32451;" label="工作职责1为会员教授高品">
+                                    <action action="pagetrans" tradeline="job" infoSource="0" countType="0" userID="39360955457297"
+                            content="{&quot;recomInfo&quot;:&quot;false&quot;,&quot;userID&quot;:39360955457297,&quot;title&quot;:&quot;&#35814;&#24773;&quot;,&quot;use_cache&quot;:&quot;true&quot;,&quot;local_name&quot;:&quot;bj&quot;,&quot;pagetype&quot;:&quot;detail&quot;,&quot;infoID&quot;:&quot;26200844093764&quot;,&quot;list_name&quot;:&quot;zpjianshen&quot;,&quot;full_path&quot;:&quot;9224,38680,38735&quot;,&quot;charge_url&quot;:&quot;http://jump.zhineng.58.com/clk?target=Iy-b5HnOn1mkrHNdPjNLnWbLFhP6UgKGujYvnHNzrjD1FMPdmh-b5Hcvn19QPWNLFhR8IA-b5HcvnWTkrjEYnjb1P1mYFMP-UAu_U1YQFMP-UAuWmHY1nHnYFhwG0v-b5ywBmvw6nHDksHEzn10VPAFbuid6mHbdsHFWrHE1uhPWnvPWmzubpgPYUHYQPjmdP1DkPjEOP1mLFhwG0vQf5HDhuA-1mvDqn19vrjThuyOYIZTqnauk0h-WuHY1nauvpgPdpyEqFMuG0LRG0jYhmvQopyEqnW-WuAcQnvcVuhuBnBYYPWmdsH93m1DVPjuWPAwbuH01P1mLFhPfUvVGuHYh0hRbpgcqpZwY0aN1EiNzwBNzwhb8IvRBmgKksWN3shPfUiNzwhFJFHFAXMKJpy780v6-UBNzwWcvnWTkrjEYnjb1P1mYXaO1pZwVUauzuymqFMP_ULEqmgKkuh-8myQkmyI-FhwG0LKf01YQFh7BIjd6FMK_uWYzFMRYURq1ULRzmvNqFMPkUHYhUHYLnv7bPj7-uHTYPjNknymL&quot;,&quot;infoSource&quot;:&quot;0&quot;,&quot;countType&quot;:&quot;0&quot;}"/>
+                            </infoItem>
+                    <infoItem title="&lt;font color=&apos;#ff6a22&apos;&gt;[&#25512;&#24191;]&lt;/font&gt;&#25307;&#32856;&#20840;&#32844;&#21450;&#20860;&#32844;&#27665;&#26063;&#33310;&#32769;&#24072;" label="1热爱艺术培训教育工作">
+                                    <action action="pagetrans" tradeline="job" infoSource="0" countType="0" userID="37704596066318"
+                            content="{&quot;recomInfo&quot;:&quot;false&quot;,&quot;userID&quot;:37704596066318,&quot;title&quot;:&quot;&#35814;&#24773;&quot;,&quot;use_cache&quot;:&quot;true&quot;,&quot;local_name&quot;:&quot;bj&quot;,&quot;pagetype&quot;:&quot;detail&quot;,&quot;infoID&quot;:&quot;26222203357769&quot;,&quot;list_name&quot;:&quot;zpjianshen&quot;,&quot;full_path&quot;:&quot;9224,38680,38734&quot;,&quot;charge_url&quot;:&quot;http://jump.zhineng.58.com/clk?target=Iy-b5HnLP1TYPHbvnjmvn1D3FhP6UgKGujYdPHcOnHDOFMPdmh-b5HcvrjT3rjnvFhR8IA-b5HcvnWcznWT1n1NLP1mOFMP-UAu_U1YQFMP-UAuWmHY1nHnYFhwG0v-b5ywBmvw6nHDksHEzn10VPAFbuid6mHbdsHFWrHE1uhPWnvPWmzubpgPYUHYQPjmdP1DkPjEOP1mLFhwG0vQf5HDhuA-1mvDqn19vrjThuyOYIZTqnauk0h-WuHY1nauvpgPdpyEqFMuG0LRG0jYhmvQopyEqujTkPyNQnWDVnWRhnBYYP1nksH91rAcVnHnYnvw6n1mdn1RhFhPfUvVGuHYh0hRbpgcqpZwY0aN1EiNzwBNzwhb8IvRBmgKksWN3shPfUiNzwhFJFHFAXMKJpy780v6-UBNzwWcvnWcznWT1n1NLP1mOXaO1pZwVUauzuymqFMP_ULEqmgKkuh-8myQkmyI-FhwG0LKf01YzFh7BIjd6FMK_uWYzFMRYURq1ULRzmvNqFMPkUHYhUHd-PHu6P1EdrjK-rHP-m1c3&quot;,&quot;infoSource&quot;:&quot;0&quot;,&quot;countType&quot;:&quot;0&quot;}"/>
+                            </infoItem>
+                        <infoItem type="2" ad_type="4"></infoItem>
+            </infolist>
+</advert_area>
+        <other>
+              <info_share
+            type="1"
+            extshareto="WEIXIN,FRIENDS,QQ,SINA,COPY"
+            pagetype="detail"
+            title="&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;"
+            url="http://i.m.58.com/bj/zpjianshen/25181883077681x.shtml"
+            picurl=""
+            placeholder=""
+            content=""/>
+                 <add_history
+            left_keyword="3000-5000元"
+            right_keyword="北京/今天"
+            title="&#23567;&#29677;&#37197;&#29677;&#32769;&#24072;"
+            catename="运动健身"
+            localname="北京"
+            infoid="25181883077681"/>
+                <callfeedback_area content="{&quot;3&quot;:[{&quot;str&quot;:&quot;接听态度差&quot;,&quot;su&quot;:&quot;a&quot;,&quot;sh&quot;:&quot;12&quot;},{&quot;str&quot;:&quot;职介冒充公司&quot;,&quot;su&quot;:&quot;c&quot;,&quot;sh&quot;:&quot;13&quot;},{&quot;str&quot;:&quot;岗位描述不符&quot;,&quot;su&quot;:&quot;c&quot;,&quot;sh&quot;:&quot;14&quot;}],&quot;1&quot;:[{&quot;str&quot;:&quot;接听态度好&quot;,&quot;su&quot;:&quot;b&quot;,&quot;sh&quot;:&quot;11&quot;}]}" />
+    
+</other>
+		<weblog_area>
+	<trackinfos>
+		<trackinfo content="{&quot;localarea&quot;:&quot;1,1147,5144&quot;,&quot;area&quot;:&quot;1,1147,5144&quot;,&quot;localcate&quot;:&quot;574,3134,3174&quot;,&quot;cate&quot;:&quot;9224,38680,38734&quot;,&quot;cacheNeedLog&quot;:&quot;1&quot;,&quot;pagetype&quot;:&quot;detailqiangren&quot;,&quot;actiontype&quot;:&quot;qiangren&quot;,&quot;thirdareanew&quot;:&quot;0&quot;,&quot;params&quot;:[&quot;25181883077681&quot;,&quot;8774593906695&quot;],&quot;preloadNeedLog&quot;:&quot;0&quot;,&quot;thirdcatenew&quot;:&quot;3174&quot;}"/>
+	</trackinfos>
+</weblog_area>    </result>
+</root>	
