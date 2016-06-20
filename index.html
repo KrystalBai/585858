@@ -8,11 +8,9 @@
 	<div id="output"></div>
 </body>
 <script type="text/javascript">
-var params=['1','json','bj','ios','6.6.5'];
-var data='';
-$.getJSON( "data.json", function( data ) {
-  console.log(data);
+var data={a:1,b:2};
+$.getJSON( "https://github.com/KrystalBai/585858/blob/gh-pages/data.json?callback=?", data, function( res ) {
+  console.log(res);
 });
-
 </script>
 </html>
