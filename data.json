@@ -1,0 +1,362 @@
+{
+  "status": "0",
+  "msg": "OK",
+  "result": {
+  		"sidDict":"{PGTID:,GTID:191723049192209263992263318}",
+        "info":[
+            {
+    "title_area": [
+        {
+            "titleItem": {
+                "title": "5K净水机安装售后专员",
+                "date": "2015-03-23",
+                "text": "",
+                "user_type": "1",
+                                     "licence": "执照已认证",
+                                 "browered": "已有4928人浏览",
+                "price": "5000-8000",
+                "unit": "元"
+            }
+        }
+    ]
+},
+            {
+                "baseinfo_area":[
+                                                            {
+                        "mapAddressItem": {
+                            "title": "地址",
+                            "content": "北京 - 丰台 - 岳各庄",
+                            "type":"0",
+                            "action": {
+                                "action":"detailmap",
+                                "lat":"39.89779",
+                                "lon":"116.286757",
+                                "lastname":"北京",
+                                "title":"北京丰台岳各庄桥北郑常庄丰台路中学东门",
+                                "customtitle":"地址",
+                                "route":"false"
+                            }
+                        }
+                    },
+                                        {
+                        "baseinfo":[
+                                                        {
+                                "title": "职位",
+                                "content": "普工"
+                            },
+                            {
+                                "title": "要求",
+                                "content": "3人/经验不限/学历不限"
+                            }
+                        ]
+                    }
+                                        ,{
+                        "highlights": [
+                                                        {
+                                "title": "五险一金",
+                                "iconList": "job_detail_insurance_icon"
+                            },
+                                                        {
+                                "title": "话补",
+                                "iconList": "job_detail_subsidy_icon"
+                            }]
+                    }
+                                    ]
+            },
+                                {
+        "qy_area":[
+            {
+                "qyInfoItem": {
+                    "id": "2065778179079",
+                    "name": "北京亿家理想净水设备有限公司",
+                    "company": "2",
+											"lable": "",
+					                    "size": "50-99人",
+                    "nature": "个人企业",
+                    "trade": "环保",
+                    "address": "地址",
+                    "logo": "",
+                                            "alias": ""
+                                    }
+            }
+                                    ,{
+                "mapAddressItem": {
+                    "title": "地址",
+                    "content": "北京市丰台区郑常庄天安街甲2号宇通商务楼",
+                    "type":"1",
+                    "action": {
+                        "action": "detailmap",
+                        "lat": "39.891643",
+                        "lon": "116.279791",
+                        "lastname": "北京",
+                        "customtitle":"地址",
+                        "title": "北京市丰台区郑常庄天安街甲2号宇通商务楼",
+                        "route": "false"
+                    }
+                }
+            }
+                                    ,{
+                "qyDescItem": {
+                    "label": "简介",
+                    "content": "水自古就是我们蓝色星球上生命的象征，可是自然环境和城市的高速发展却给地球带来了严重的污染，水质的健康也渐渐失去了保障，如今北京亿家理想带着它的净水宣言来到您的身边，它致力为每一个家庭带来一个全新的净水世界！北京亿家理想净水设备有限公司是专业从事水处理技术应用和销售服务于一体的综合性公司。公司业务范围主要涵盖：家庭、办公、商务、别墅、工程等过滤、净水、纯水、软水设备。开水器、制冰机、直饮机设备、空气净化设备及耗材配件等。我们根据客户要求和承受能力，为客户量身定选最佳的水处理设备，并提供完善的工程设计、技术咨询、设备安装、调试等多项技术服务，客户的满意是我们最大的心愿。“亿家理想”的目标是不断改进产品的性能和质量，降低成本，改善服务，以满足广大用户的需要和期望，增强产品的竞争优势，为员工创造不断进取和充分施展才能的机会。“亿家理想人”将秉承“敬业守信”的经营理念，倡导“永不停步”的企业精神，保持技术优势、规模优势、品牌优势，致力于倡导和改善人们的用水健康和生活质量。展望未来，我们将一如既往地发扬严谨务实的工作态度，客户至上的企业理念，与您共同开创美好的未来。在我们这里您一定会满意，也正是我们为您的美好生活而努力工作着"
+                }
+            }
+                                ]
+    },
+            {
+                "desc_area": [{
+                    "jobDescItem": {
+                        "title": "职位描述",
+                        "text": "岗位职责：净水机安装与维护，安装维护均有提成。<br>任职资格：有相关工作经验优先，吃苦耐劳，踏实肯干<br>工作时间：上午8点半到当天任务完成下班"
+                    }
+                }]
+            },
+            {
+    "report_area": [{
+        "tipItem": {
+            "title": "如遇无效、虚假、诈骗信息，请立即举报",
+            "text": "求职过程请勿缴纳费用，谨防诈骗！若信息不实请举报。",
+            "action": {
+                "action": "pagetrans",
+                "tradeline": "job",
+                "content": {"title":"举报","showsift":"false","top_right":"hide","isfinish":"false","action":"loadpage","backtoroot":"false","pagetype":"link","showpub":"false","is_recent":"false","showarea":"false","url":"http://about.58.com/vote/app?infoId=21389043282569"}
+            }
+        }
+    }]
+}, 
+{
+    "recom_zp_area": [
+        {
+            "labelItem": {
+                "title": "附近职位"
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "26243129849401",
+                "title": "艺人助理跟组普工场工",
+                "label": "3000-5000元",
+                "infoSource":"",
+                "countType":"",
+                "userID":39765207525398,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content" : {"recomInfo":"false","userID":39765207525398,"title":"详情","use_cache":"true","local_name":"bj","infoID":"26243129849401","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"0","countType":"0"}
+                }
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "26396145153087",
+                "title": "安检招聘#学生工#",
+                "label": "3000-5000元",
+                "infoSource":"",
+                "countType":"",
+                "userID":28453490269190,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content" : {"recomInfo":"false","userID":28453490269190,"title":"详情","use_cache":"true","local_name":"bj","infoID":"26396145153087","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"6","countType":"3"}
+                }
+            }
+        }]
+},
+{
+    "recom_gz_area":[
+        {
+            "labelItem": {
+                "title": "申请该职位的人还在关注"
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "19638532349958",
+                "title": "写真喷绘后期输出/包食宿",
+                "label": "3000-5000元",
+                "infoSource":"6",
+                "countType":"0",
+                "userID":7664142424583,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content": {"recomInfo":"false","userID":7664142424583,"title":"详情","use_cache":"true","local_name":"bj","infoID":"19638532349958","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"6","countType":"0"}
+                }
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "25116195071309",
+                "title": "夫妻工月入过万五险一金",
+                "label": "3000-5000元",
+                "infoSource":"6",
+                "countType":"3",
+                "userID":37086245947665,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content": {"recomInfo":"false","userID":37086245947665,"title":"详情","use_cache":"true","local_name":"bj","infoID":"25116195071309","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"6","countType":"3"}
+                }
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "24802372495680",
+                "title": "德邦诚聘快递分拣员",
+                "label": "3000-5000元",
+                "infoSource":"6",
+                "countType":"0",
+                "userID":20605481032966,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content": {"recomInfo":"false","userID":20605481032966,"title":"详情","use_cache":"true","local_name":"bj","infoID":"24802372495680","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"6","countType":"0"}
+                }
+            }
+        },
+                {
+            "jobInfoItem": {
+                "infoID": "24816089512775",
+                "title": "三星高薪诚聘普工包食宿",
+                "label": "面议",
+                "infoSource":"6",
+                "countType":"0",
+                "userID":26468860061446,
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content": {"recomInfo":"false","userID":26468860061446,"title":"详情","use_cache":"true","local_name":"bj","infoID":"24816089512775","pagetype":"detail","list_name":"zpshengchankaifa","full_path":"9224,13916,9753","infoSource":"6","countType":"0"}
+                }
+            }
+        },
+                {
+            "moreItem": {
+                "title": "查看更多",
+                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                    "content": {"nsource":"detail","pagetype":"list","cateid":"13916","list_name":"zpshengchankaifa","title":"普工/技工","meta_url":"http://app.58.com/api/list"}
+                }
+            }
+        }
+    ]
+},{
+	"tool_area": {
+        "title": "靠谱好工作月薪8000+",
+        "content": "线上沟通，即刻入职",
+        "info_button": {
+            "title": "立即查看",
+            "action": {
+                "action": "pagetrans",
+                "tradeline": "job",
+                "content": {"title":"58配配","showsift":"false","isfinish":false,"action":"loadpage","backtoroot":false,"pagetype":"link","showpub":false,"showarea":"false","url":"http://pei.58.com/m/mgongzuo1.html?from=zhiweixiangqingye_peipei_108&app=58app"}
+            }
+        }
+    }
+}, 
+{
+    "advert_area":[
+        {
+            "labelItem": {
+                "title": "智能推广"
+            }
+        },
+                {
+            "infoItem": {
+                "title": "<fontcolorff6a22>[推广]<font>普工包住月薪5000",
+                                "countType":"",
+                                                "infoSource":"",
+                                                "userID":33368962374412,
+                                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                                        "content": {"title":"详情","showsift":"false","isfinish":false,"backtoroot":false,"action":"loadpage","pagetype":"link","showpub":false,"showarea":"false","url":"http://jump.zhineng.58.com/clk?target=Iy-b5Hn1n1m3rHmzn10YPjDzFhP6UgKGujYvnWnOPW9OFMPdmh-b5HcLn10YPH01FhR8IA-b5Hcvn1mQPHb1nHTQnWN1FMP-UAu_U1YQFMP-UAuWmHYvnj0huA-1pyEqmvnzPvNLuWTVuWRWmiYYrymdsy7WuAEVrj93Phmzn1mdPHczFhwG0LwV5HDYPWmYPjT1PjcQnWmhuA-1UAtqniubpgPWmHYQn1bQPBu-UMwY0jYkFMKzpyP-5HEkFMuG0LRGujYhIh-1Iy-k5iuWUAVGujd-mH9OuH7hPzdBPAubsHE3nj0VmH-Bridbm1u6Pj9kuWR6uj0hmvqfpv--5iuzuywG0WdCIZwkFHPKFHFAFHFApiOLuyF60ZT8PH98mvqVFHFAmhC-nbul0ZPCuyOMmv66UhV6pyu6FHFAnWm1PWDdrHnQnjDzPHP3sMPCIAd_FMF-uWYh0vQfIjd60ZKhpyO6UZK6uvNhuA-10Aq15HDhmyFY5yDh0AQh5HchIgwVgLPfIgFWuHYh0LKV5iuV5H0Orjc1mHKBrANdm1TzujT"}
+                                    }
+            }
+        },
+                {
+            "infoItem": {
+                "title": "<fontcolorff6a22>[推广]<font>工厂直招机修工人普工",
+                                "countType":"",
+                                                "infoSource":"",
+                                                "userID":2330517286662,
+                                "action": {
+                    "action": "pagetrans",
+                    "tradeline": "job",
+                                        "content": {"title":"详情","showsift":"false","isfinish":false,"backtoroot":false,"action":"loadpage","pagetype":"link","showpub":false,"showarea":"false","url":"http://jump.zhineng.58.com/clk?target=Iy-b5Hc1n1TdnH0zrjmvPWchmv7V0A-b5HNznWN3n1ch0LRBpyEqnWmvn1bLrH9huyOYpyEqnWNYPHNOPH0knWNLn1nh0vR_uhQf5HDh0vR_uhP65HmkPzubpgPGujdWm1cLuHIhnadhPyP6sHEOuWNVmyPbuaY3rj9vuWc1PWNdnWchuA-1IAYqnHEvPWEYnjnYnWDzPBubpgP_U1YQFhwG0vP65HD1rHDvFhR8IZwk5HTh0ZFGmvNqPjDhIh-1Iy-b5iuvpgPdpgTqFhP_pv-b5ywbmH66m1mksHDvP1TVPj0vuBd6uHI6sHuhuWnOnHbzuAmknBuWUvqopyNqFMF-uA-z5y6YIZT-nYD-nbm-nbuGsMI-mh7k0a3draOWUvY-nbuBpBNzwMGk0v6-UhIWpA78pv7GuhD-nbmzPHEdPHbdP1TzPH01nL980v6YUykh0hRh5iu1UAqY5y7k0AuGUh7_0A7MuiubpgPkULnqnBu6mMEqmiukUAmqnBudIAdx0vqd0hP-5iu10AYqFhYqujm1uHwWrycLP1EYPvEku9"}
+                                    }
+            }
+        }]
+},
+            {
+    "userinfo_area": [
+        {
+            "telInfoItem": {
+						          			           "type": "free_dial",
+			           "free_dial_info":{
+                   "title":"免费电话咨询",
+                   "action":{
+                      "action":"pagetrans",
+                      "tradeline":"job",
+                      "content":{"action":"loadpage","pagetype":"link","infoid":"21389043282569","title":"免费电话咨询","url":"http://zp.service.58.com/call/app_ready?enterPhone=9CFE7EFB0A8EB616AF98933342879059&infoid=21389043282569&phone=&userid="}
+                   }
+                },
+                "dial_info":{
+                   "title":"9CFE7EFB0A8EB616AF98933342879059",
+                   "len": "11",
+                   "isencrypt": "false",
+                   "action":{"isencrypt":"false","infoid":"21389043282569","cateid":"607","username":"yijialixiang2012","title":"5K+净水机安装售后专员","action":"tel","len":"11","phonenum":"9CFE7EFB0A8EB616AF98933342879059","url":"http://i.webapp.58.com/bj/zpshengchankaifa/21389043282569x.shtml"}
+                },
+			                          "title": "电话"
+			            }
+        }
+        ,
+						{
+			"qq_info": {
+				"title": "QQ",
+				"content": "", 
+				"action":
+				{
+					"action": "pagetrans",
+					"tradeline": "job",
+					"content": {"action":"loadpage","pagetype":"link","js_callback":"toqq","title":"正在呼起QQ临时会话","url":"http://apptest.58.com/api/detail/job/qq?infoid=21389043282569&os=ios"}
+				}
+			}
+		}
+		,
+		        {
+            "applyInfoItem": {
+                "title": "申请职位",
+                "type": "job"
+            }
+        }
+    ]
+}        ],
+        
+"other" : {
+    "share": {
+        "action":"info_share",
+        "type": "1",
+        "extshareto":"WEIXIN,FRIENDS,QQ,SINA,COPY",
+        "pagetype":"detail",
+        "data":{
+            "title" : "5K净水机安装售后专员",
+            "url" : "http://i.m.58.com/bj/zpshengchankaifa/21389043282569x.shtml",
+            "picurl" : "",
+            "placeholder" : "",
+            "content" : ""
+        }
+    }
+        ,"add_history": {"infoid":"21389043282569","title":"5K净水机安装售后专员","localname":"北京","left_keyword":"5000-8000元","right_keyword":"北京/2015-03-23","catename":"普工/技工"}
+            ,"callfeedback_area":{
+        "pre_num": "",
+        "time" : "10",
+        "content": {"3":[{"str":"接听态度差","su":"a","sh":"12"},{"str":"职介冒充公司","su":"d","sh":"13"},{"str":"岗位描述不符","su":"d","sh":"14"}],"1":[{"str":"接听态度好","su":"a","sh":"11"}]}
+    }
+    },
+		"weblog": {
+        "trackinfos": [
+			{"localarea":"1,1144,6034","cate":"9224,13916,9753","localcate":"574,607,2553","area":"1,1144,6034","cacheNeedLog":"1","actiontype":"qiangren","pagetype":"detailqiangren","thirdareanew":"0","params":["21389043282569","2065778179079"],"thirdcatenew":"2553","preloadNeedLog":"0"}
+        ]
+    }    }
+}
