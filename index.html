@@ -5,12 +5,17 @@
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 </head>
 <body>
-	<div id="output"></div>
+	<div class="result"></div>
 </body>
 <script type="text/javascript">
-var data={a:1,b:2};
-$.getJSON( "https://github.com/KrystalBai/585858/blob/gh-pages/data.json", function( res ) {
-  console.log(res);
+// var data={a:1,b:2};
+// $.getJSON( "data.json", function( res ) {
+//   console.log(res);
+// });
+
+$.get( "https://github.com/KrystalBai/585858/blob/master/data.json", function( data ) {
+  $( ".result" ).html( data );
+  alert( "Load was performed." );
 });
 </script>
 </html>
