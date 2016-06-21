@@ -2071,8 +2071,10 @@
 //   console.log(res);
 // });
 
-$.get( "data", function( data ) {
-  console.log(data);
+
+  $('body').find('action').each(function(i){
+  $(this).attr( 'content',arr[i]);
+
 });
 </script>
 </html>
